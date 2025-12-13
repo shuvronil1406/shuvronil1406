@@ -1,81 +1,73 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;I'm+Shuvronil+Ganguly;MERN+Stack+Learner+%7C+React+Developer;Building+One+Project+at+a+Time" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=700&size=35&pause=1000&color=39F3BB&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+profile!;I'm+Shuvronil+Ganguly;MERN+Stack+Developer;Creative+Video+Editor" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>🚀 Building for the Web | Crafting Visual Stories</h3>
+  
+  <br/>
+  
+  > *"The Magic you are looking for is in the work you are avoiding"*
+  
+  <br/>
+</div>
 
 ---
 
-## 👋 Hi, I'm **Shuvronil Ganguly**
+### 👨‍💻 About Me
 
-🎓 B.Tech CSE (AI Specialization)  
-💻 Frontend-focused MERN Stack Learner  
-🚀 Passionate about building clean, responsive, and modern web applications  
+I am a developer specializing in the **MERN Stack**, building responsive web applications using **React** and **Tailwind CSS**. Beyond code, I am a passionate **Video Maker and Editor**, blending technical logic with creative storytelling.
 
-> **“The magic you are looking for is in the work you are avoiding.”**
-
----
-
-## 🧠 Currently Learning
-- **MERN Stack Development**
-- Advanced **React** concepts
-- Scalable frontend architectures
+- 🔭 **I’m currently working on:** Full-stack MERN integration
+- 🌱 **I’m currently learning:** Backend architecture & API design
+- 🎬 **Creative Side:** Passionate about high-quality video production
+- 🔮 **Future Goal:** Mastering AI/ML to build the next generation of software
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Creative Tools
 
-### 🌐 Frontend
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **React (Vite)**
-- **Tailwind CSS**
-
-### ⚙️ Tools & Workflow
-- **Vite** (React)
-- **Git & GitHub**
-- **VS Code**
-
-### 🚀 Deployment
-- **Vercel**
-- **Netlify**
-
----
-
-## 🔮 Future Goals
-- Dive into **Artificial Intelligence & Machine Learning**
-- Build intelligent, real-world problem-solving applications
-- Combine **AI + Web** for impactful products
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/VN_Editor-FF4500?style=for-the-badge&logo=video&logoColor=white" alt="VN" />
+</div>
 
 ---
 
-## 📌 Projects
-🚧 *Currently building and learning…*  
-✨ Projects will be added here soon as part of my **React & MERN journey**
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvronil1406&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvronil1406&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 🤝 Connect With Me
+### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shuvronil-ganguly-964861324/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/shuvronil-ganguly-964861324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/shuvro.bubai/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/shuvro.bubai/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:gangulyjaya0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
----
-
-## 💬 Discord
-**Username:** `shuvronil_1406_99024`
-
----
+  <img src="https://img.shields.io/badge/Discord-shuvronil__1406__99024-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=shuvronil1406&color=39F3BB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
